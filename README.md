@@ -3,10 +3,15 @@ Term Project for CS300
 
 <Schedule>
 April 13: The term project is announced
+
 April 25: The requirements document is due
+
 May 9: The design document is due
+
 May 30: The test plan is due
+
 June 8: The project report and final deliverables are due
+
 
 <Project Description>
 (1) Requirements
